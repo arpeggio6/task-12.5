@@ -1,0 +1,26 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	box-sizing: border-box;
+}
+body {
+	background: #55ACEE;
+	color: #FFFFFF;
+	text-align: center;
+}
+header {
+	margin: 100px;
+}
+.box {
+	height: 180px;
+}
+button, a {
+	display: block;
+	border: solid 1px #FFF;
+	border-radius: 5px;
+	width: 250px;
+	margin: 0 auto 20px;
+	padding: 10px 20px;
+	background: inherit;
+	color: #FFF;
+	text-decoration: none;
+}
